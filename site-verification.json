@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-21T04:08:50.261Z",
+  "published": false,
+  "staticRequestsVerified": 85,
+  "actualSourceCopiesVerified": 80,
+  "transferredBytes": 736369261,
+  "projectBasePathVerified": true,
+  "publicPayloadWhitelistVerified": true,
+  "noInternalLinksOrTokensFound": true,
+  "imageReencoding": false,
+  "largestFile": {
+    "path": "SR13/ks.png",
+    "bytes": 27255389,
+    "sha256": "a75c9c029eeab3db9be67bf7579b6c7a8523b63d3ff95242b5928b39dfa481bc",
+    "testId": "SR13",
+    "model": "ks",
+    "width": 5498,
+    "height": 3072,
+    "format": "png"
+  },
+  "manifestSha256": "cd5c8c38e4ab249a674cad3039a3f05a25b934779975a884fe16cceffdb8bbc2",
+  "scope": "独立静态目录与本机HTTP验收；线上URL及GitHub Pages部署由发布后回读证明"
+}
